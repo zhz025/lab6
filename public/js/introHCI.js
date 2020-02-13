@@ -35,6 +35,4 @@ function addProjectDetails(e) {
 	console.log("User clicked on project " + idNumber);
 }
 
-function callback(result){
-	
-}
+
